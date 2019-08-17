@@ -23,15 +23,14 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 
 ## Sections
 
- *[Noonightcoder Is You](https://github.com/soklux/teambook/blob/master/noonightcoder-is-you)*
- *[What We Stand For]*
- *[Noonightcoder Is You]*
- *[What Influenced & Inspire US]*
+* *[Noonightcoder Is You](https://github.com/soklux/teambook/blob/master/noonightcoder-is-you)*
+* *[What We Stand For](https://github.com/soklux/teambook/blob/master/what-we-stand-for.md)*
+* *[Code of Conduct]*
+* *[What Influenced & Inspire US]*
  *[Vocabulary]*
  *[Our First Product]*
  *[Who Does What]*
  *[Where We Work]*
  *[Getting Started]*
  *[Our Rituals]*
- *[Code of Conduct]*
  *[FAQ]*
