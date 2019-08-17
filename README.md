@@ -27,10 +27,10 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 * *[What We Stand For](https://github.com/soklux/teambook/blob/master/what-we-stand-for.md)*
 * *[Code of Conduct]*
 * *[What Influenced & Inspire US]*
- *[Vocabulary]*
- *[Our First Product]*
- *[Who Does What]*
- *[Where We Work]*
- *[Getting Started]*
- *[Our Rituals]*
- *[FAQ]*
+* *[Vocabulary]*
+* *[Our First Product]*
+* *[Who Does What]*
+* *[Where We Work]*
+* *[Getting Started]*
+* *[Our Rituals]*
+* *[FAQ]*
