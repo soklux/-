@@ -34,3 +34,5 @@ What is good communication by "Having something to say and say it well". Open, h
 * **Generousity & Kindess** Generosity is a wonderful vitue. Being generous is surprising someone on the other end with goodwill and asking for nonthing in return. It could be time, attenition, or treasure - we give what we're expected to, and then some.
 
 ## Helping small busiess (SMB) deal with growth & សំរួលការប្រកប អាជីវម្ម & end game delivery happiness
+
+* To build better word from human doing to human being & humand kind
