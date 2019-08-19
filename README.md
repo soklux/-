@@ -25,8 +25,9 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 
 * *[Noonightcoder Is You](https://github.com/soklux/teambook/blob/master/noonightcoder-is-you)*
 * *[What We Stand For](https://github.com/soklux/teambook/blob/master/what-we-stand-for.md)*
-* *[Code of Conduct or Rule of The Game](https://github.com/soklux/culturebook/blob/master/rule%20of%20the%20game.md)*
 * *[What Influenced & Inspire US](https://github.com/soklux/culturebook/blob/master/what-influenced-us.md)*
+* *[Rule of The Game](https://github.com/soklux/culturebook/blob/master/rule%20of%20the%20game.md)*
+* *[Rule of The Game](https://github.com/soklux/culturebook/blob/master/rule%20of%20the%20game.md)*
 * *[Vocabulary]*
 * *[Our First Product]*
 * *[Who Does What]*
