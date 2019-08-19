@@ -10,7 +10,7 @@ Examples of behaviors that contributes to creating a positive environment includ
 * Have each other's back ("I got you"): being respectful of differnt viewpints and experience. 10 = 1+9 = 2+8 = 3+7 = 4+6 ... "The whole is greater than sum of its part."
 * Thankful accpeting construtive feedback & critism
 * Reject average and "good enought": Focusing on what is best/outstanding for the tribe
-* Showing empathy, compassion towards other tribe's members: see detail "[What Influences & Inspire Us]()" section.
+* Showing empathy, compassion towards other tribe's members: see detail "[What Influences & Inspire Us](https://github.com/soklux/teambook/blob/master/what-influenced-us.md)" section.
 
 ###Examples of unacceptable behavior by participats include:
 
