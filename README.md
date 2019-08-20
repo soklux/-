@@ -28,7 +28,7 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 * *[What Influenced & Inspire US](https://github.com/soklux/culturebook/blob/master/what-influenced-us.md)*
 * *[Rule of The Game](https://github.com/soklux/culturebook/blob/master/rule%20of%20the%20game.md)*
 * *[Code of Conduct](https://github.com/soklux/teambook/blob/master/code-of-conduct.md)*
-* *[Vocabulary]*
+* *[Vocabulary](https://github.com/soklux/teambook/tree/master)*
 * *[Our First Product]*
 * *[Who Does What]*
 * *[Where We Work]*
