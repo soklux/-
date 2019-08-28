@@ -30,7 +30,7 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 * *[Code of Conduct](https://github.com/soklux/teambook/blob/master/code-of-conduct.md)*
 * *[Vocabulary](https://github.com/soklux/teambook/tree/master)*
 * *[Our First Product]*
-* *[Who Does What]*
+* *[Who Does What]([Help Scout](https://www.helpscout.net))*
 * *[Where We Work]*
 * *[Getting Started]*
 * *[Our Rituals]*
