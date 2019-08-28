@@ -16,3 +16,12 @@
 * [REWORK](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=Y2VD285D6Z0FBN4KJB4Z)
 * [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220/ref=sr_1_3?crid=1OUKQRD690SWE&keywords=delivering+happiness&qid=1566046993&s=books&sprefix=delivering+ha%2Cstripbooks%2C368&sr=1-3)
 * [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
+
+# Product
+
+* [BaseCamp](https://basecamp.com/)
+* [FreshBooks](https://www.freshbooks.com/)
+* [Keap Formerly Infusionsoft](https://keap.com/)
+* [Xero](https://www.xero.com/)
+* [Trello](https://trello.com/)
+* [SalesForce](https://www.salesforce.com/)
