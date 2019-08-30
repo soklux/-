@@ -7,4 +7,10 @@ Question: How might we could o to create a product which allow people will have 
 What product feature to let people working smarter with joy - variety of specific music background to bring his/her focus, concentration, joy in specific context to his/her falvor?
 
 
+## What Inspire Us The Concept Wise
 
+* Harmony
+* Calm
+* Peace
+* Organize 
+* One place, not over the place
