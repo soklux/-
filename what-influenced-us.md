@@ -7,6 +7,7 @@
 * [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh)
 * [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn)
 * [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)
 
 # Books
 
