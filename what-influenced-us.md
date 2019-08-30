@@ -3,6 +3,7 @@
 # People
 
 * [Budda](https://en.wikipedia.org/wiki/Gautama_Buddha)
+* [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
 * [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
 * [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh)
 * [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn)
