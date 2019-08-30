@@ -1,4 +1,4 @@
-# Noonightcoder TeamBook 🦉
+# Noonightcoder TeamBook 🦉CODER :)
 
 On the morning 14 Aug 2018 9:00 am, we've met again at Koch Pich island to discuss where we wanna go, who we wanna be espeically why we do what we are doing?
 What business we are are really into?
