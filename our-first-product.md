@@ -16,6 +16,7 @@ For our first product I made up the mind to start a *simple online inovocing app
 * Peace
 * Organize 
 * One place, not over the place
+* Happines The End Goal
 
 ## Development Driven
 
