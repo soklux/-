@@ -31,7 +31,7 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 * *[Vocabulary](https://github.com/soklux/teambook/tree/master)*
 * *[Our First Product](https://github.com/soklux/teambook/blob/master/our-first-product.md)*
 * *[Who Does What](https://github.com/soklux/teambook/blob/master/orgchart.md)*
-* *[Where We Work]*
+* *[Where We Work](https://github.com/soklux/teambook/blob/master/where-we-work.md)*
 * *[Getting Started]*
 * *[Our Rituals]*
 * *[FAQ]*
