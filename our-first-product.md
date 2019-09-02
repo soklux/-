@@ -6,8 +6,11 @@ It's all about love :).
 Question: How might we could o to create a product which allow people will have more time enjoying being human being kind?
 What product feature to let people working smarter with joy - variety of specific music background to bring his/her focus, concentration, joy in specific context to his/her falvor?
 
-For our first product I made up the mind to start a *simple online inovocing app* **បញ្ជីរហ័ស** ទាន់ចិត្ត ត្រឹមត្រូវ ជឿជាក់ទុកចិត្តបាន, ងាយស្រួលប្រេី រួសរាយរាក់ទាក់ រៀបរយមានសណ្តាប់ធ្នាប់ & using Open Heart community as foundation for fast peace development.
+For our first product I made up the mind to start a *simple online invoicing app* **បញ្ជីរហ័ស** ទាន់ចិត្ត ត្រឹមត្រូវ ជឿជាក់ទុកចិត្តបាន, ងាយស្រួលប្រេី រួសរាយរាក់ទាក់ រៀបរយមានសណ្តាប់ធ្នាប់ & using Open Heart community as foundation for fast peace development.
 
+## Exeuction Action Plan:
+
+"Loser have goals. Winners have system" so the question is how might we do to create this *simple online invoicing app* to operation systematically itself which is only best option to go for US?
 
 ## What Inspire Us The Concept Wise
 
