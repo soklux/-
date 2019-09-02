@@ -22,9 +22,10 @@
 
 # Product
 
-* [BaseCamp](https://basecamp.com/)
-* [FreshBooks](https://www.freshbooks.com/)
-* [Keap Formerly Infusionsoft](https://keap.com/)
-* [Xero](https://www.xero.com/)
-* [Trello](https://trello.com/)
-* [SalesForce](https://www.salesforce.com/)
+* [BaseCamp](https://basecamp.com/) : The founder & All in one place, not all over the place 
+* [FreshBooks](https://www.freshbooks.com/) : its popularity & online model is really working
+* [Keap Formerly Infusionsoft](https://keap.com/) : its popularity & online marketing tool is really working
+* [Xero](https://www.xero.com/) : its well known and how operate business
+* [Trello](https://trello.com/) : its obvios intuitively on simple, user friendly functionality make user life a lot easier 
+* [SalesForce](https://www.salesforce.com/) : the founder
+* [GloriaFood](https://www.gloriafood.com/) : its simplicity on first shop registration
