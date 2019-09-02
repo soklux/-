@@ -12,6 +12,9 @@ For our first product I made up the mind to start a *simple online invoicing app
 
 "Loser have goals. Winners have system" so the question is how might we do to create this *simple online invoicing app* to operation systematically itself which is only best option to go for US?
 
+* Intutively obvious & easy self-online shop register (i.e gloriaJean)
+*
+
 ## What Inspire Us The Concept Wise
 
 * Harmony
