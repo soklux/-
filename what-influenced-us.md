@@ -7,7 +7,7 @@
 * [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
 * [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh)
 * [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn)
-* [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek) ~ A team is not a group of people who work together. A team is a group of people who trust each other.
 * [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)
 
 # Books
