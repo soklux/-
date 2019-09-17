@@ -20,6 +20,7 @@
 * [Getting Real](https://basecamp.com/books/getting-real)
 * [Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220/ref=sr_1_3?crid=1OUKQRD690SWE&keywords=delivering+happiness&qid=1566046993&s=books&sprefix=delivering+ha%2Cstripbooks%2C368&sr=1-3)
 * [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
+* [Shape UP](https://basecamp.com/shapeup)
 
 # Product
 
