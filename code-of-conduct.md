@@ -11,6 +11,7 @@ Examples of behaviors that contributes to creating a positive environment includ
 * Open and thankful accpeting construtive feedback & critism
 * Reject average and "good enought": Focusing on what is best/outstanding for the tribe
 * Showing empathy, compassion towards other tribe's members: see detail "[What Influences & Inspire Us](https://github.com/soklux/teambook/blob/master/what-influenced-us.md)" section.
+* [JOMO](https://www.psychologytoday.com/us/blog/happiness-is-state-mind/201807/jomo-the-joy-missing-out) The Joy Of Missing Out...the chat you don't need to always responsive & even respond to chat be your own time & your style. "Happiness is a state of mind"
 
 ###Examples of unacceptable behavior by participats include:
 
