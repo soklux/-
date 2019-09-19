@@ -1,4 +1,4 @@
 # Delivering Happiness - The WHY QUESTION
 
-![Happiness](https://drive.google.com/open?id=1zbChjZrfUoAVZAYGqrkMC73MMKrv67-x)
+![Happiness](https://drive.google.com/file/d/1zbChjZrfUoAVZAYGqrkMC73MMKrv67-x/view?usp=sharing)
 
