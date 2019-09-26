@@ -35,4 +35,4 @@ It's harder for us slowy-boiled frog who've been with NoongithCoder for a while 
 * *[Getting Started]*
 * *[Our Rituals]*
 * *[FAQ]*
-* *[The End Game]*
+* *[The End Game](https://github.com/soklux/teambook/blob/master/the-end-game.md)*
