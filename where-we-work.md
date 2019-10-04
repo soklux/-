@@ -16,6 +16,14 @@ We all love nature, fresh air coz we are owl team 🦉. Since prooft that being 
 
 ##Day to Day Communication
 
-Communication is a key principle to success. "Having something to say & say it well" the more clear, concise, respectful, and consitent we are in communication as a team, the better! Especially, as a remote company, communication is critical. When in double, over-communicate.
+*Communication* is a key principle to success. "Having something to say & say it well" the more clear, concise, respectful, and consitent we are in communication as a team, the better! Especially, as a remote company, communication is critical. When in double, over-communicate.
 
-Our time + attention/focus is everything...so we try together very hard to protect both. We don't do daily stand-up meetings, .We don't do pointless, useless meetings. A majority of our work requires big blocks of uninterrupted time. As result, it's important to give each other taht space be mindful of how our communication impacts someone's time, attention and focus. "FOCUS is POWER" 
+*Our time + attention/focus is everything*...so we try together very hard to protect both. We don't do daily stand-up meetings, .We don't do pointless, useless meetings. A majority of our work requires big blocks of uninterrupted time. As result, it's important to give each other taht space be mindful of how our communication impacts someone's time, attention and focus. "FOCUS is POWER"
+
+*Our default mode of communication is writing.* If you've got a new idea, thought,etc...best to write it up in own idea 💡notes place or PM tool (i.e BaseCamp Message)! Sometime, obviously, writting doesn't always suffice. For brainstorming _ riffling, strategic conversation, tough converstations, one-on-one meetins, or all-team meetings, vidoes chats work-best.
+
+
+
+
+
+
