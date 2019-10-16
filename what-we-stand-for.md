@@ -37,4 +37,4 @@ What is good communication by "Having something to say and say it well". Open, h
 
 ## Helping small busiess (SMB) deal with growth & សំរួលការប្រកប អាជីវម្ម & end game delivery happiness
 
-* **"To build better beautiful word from human doing to human being & humand kind"**
+* **"To build better beautiful world from human doing to human being & humand kind"**
