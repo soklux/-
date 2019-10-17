@@ -22,13 +22,15 @@
 * [The New One Minute Manager](https://www.amazon.com/New-One-Minute-Manager-ebook/dp/B00MMG19OG)
 * [Shape UP](https://basecamp.com/shapeup)
 * [Remote Manifesto:](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+* [Trailblazer](https://tinyurl.com/y48bqvlx)
 
 # Product
 
-* [BaseCamp](https://basecamp.com/) : The founder & All in one place, not all over the place 
+* [BaseCamp](https://basecamp.com/) : The founder, all in one place, not all over the place the way he run the business - culture
+* [SalesForce](https://www.salesforce.com/) : the founder and the way he run the biz 1+1+1 - TRUST as top value & Culture wise
+* [Zappos](https://www.zappos.com/) : the founder and the way he run the biz - the end game delivering happiness
 * [FreshBooks](https://www.freshbooks.com/) : its popularity & online model is really working
 * [Keap Formerly Infusionsoft](https://keap.com/) : its popularity & online marketing tool is really working
 * [Xero](https://www.xero.com/) : its well known and how operate business
 * [Trello](https://trello.com/) : its obvios intuitively on simple, user friendly functionality make user life a lot easier 
-* [SalesForce](https://www.salesforce.com/) : the founder
 * [GloriaFood](https://www.gloriafood.com/) : its simplicity on first shop registration
