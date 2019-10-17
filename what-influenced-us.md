@@ -9,7 +9,7 @@
 * [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn)
 * [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek) ~ A team is not a group of people who work together. A team is a group of people who trust each other.
 * [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)
-* [Seth Godin][https://seths.blog/2008/01/permission-mark/] ~ Permission Marketing is the privelege (not the right) of delivering anticipated, personal and relevant messages to people who actually want to get them.
+* [Seth Godin](https://seths.blog/2008/01/permission-mark/) ~ Permission Marketing is the privelege (not the right) of delivering anticipated, personal and relevant messages to people who actually want to get them.
 * [Marc Benioff](https://en.wikipedia.org/wiki/Marc_Benioff)
 
 # Books
