@@ -2,11 +2,11 @@
 
 # People
 
-* [Budda](https://en.wikipedia.org/wiki/Gautama_Buddha)
-* [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
-* [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
-* [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh)
-* [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn)
+* [Budda](https://en.wikipedia.org/wiki/Gautama_Buddha) ~ wisdom, mindfulness englightment
+* [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama) ~ kindness compassion
+* [David Heinemeier Hansson](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson) ~ remote calm biz
+* [Tony Hsieh](https://en.wikipedia.org/wiki/Tony_Hsieh) ~ delivering happiness
+* [Jim Ronh](https://en.wikipedia.org/wiki/Jim_Rohn) ~ wisdom & knowledge
 * [Simon Sinek](https://en.wikipedia.org/wiki/Simon_Sinek) ~ A team is not a group of people who work together. A team is a group of people who trust each other.
 * [Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo)
 * [Seth Godin](https://seths.blog/2008/01/permission-mark/) ~ Permission Marketing is the privelege (not the right) of delivering anticipated, personal and relevant messages to people who actually want to get them.
