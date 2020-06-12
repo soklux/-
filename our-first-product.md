@@ -1,18 +1,19 @@
-# Searching for Idea of Our First Product
+# Searching for Soul
 
-We have been thinking asking and searching to find out what first product we will create to allow people will have more time enjoying being human being, humanity, humilty and humandkind.
+We have been thinking asking and searching to find out what first peopel we will serve to allow people will have more time enjoying being human being, humanity, humilty and humandkind.
 It's all about love :).
 
-Question: How might we could o to create a product which allow people will have more time enjoying being human being kind?
-What product feature to let people working smarter with joy - variety of specific music background to bring his/her focus, concentration, joy in specific context to his/her falvor?
+The final answer if **farmer & SME**
+
+Question: How might we could to create a platform which allow people we serve will have more time enjoying being human being kind?
 
 For our first product I made up the mind to start a *simple online invoicing app* **បញ្ជីរហ័ស** ទាន់ចិត្ត ត្រឹមត្រូវ ជឿជាក់ទុកចិត្តបាន, ងាយស្រួលប្រេី រួសរាយរាក់ទាក់ រៀបរយមានសណ្តាប់ធ្នាប់ & using Open Heart community as foundation for fast peace development.
 
 ## Exeuction Action Plan:
 
-"Loser have goals. Winners have system" so the question is how might we do to create this *simple online invoicing app* to operation systematically itself which is only best option to go for US?
+"Loser have goals. Winners have system" so the question is how might we do to create this *e-commerce plastform* to operation systematically itself which is only best option to go for US?
 
-* Intutively obvious & easy self-online shop register such as [GloriaFood](https://www.gloriafood.com/)
+* Intutively obvious & easy to user e-commerce for 👩‍🌾 👨‍🌾 
 *
 
 ## What Inspire Us The Concept Wise
