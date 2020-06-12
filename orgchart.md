@@ -24,7 +24,7 @@ We hve two C-level executives at noonightcoder.
 
 ### CTO
 
-**Rotha** is our CTo and runs technology. He's resposible for setting technical direction of our products. He originally created Electricity Billing, a greate postpaid billing deploy in area which EDC could not be there. 
+**Vantha** is our CTO and runs technology. He's resposible for setting technical direction of our products. He originally created Electricity Billing, a greate postpaid billing deploy in area which EDC could not be there. 
 
 
 ### Data
