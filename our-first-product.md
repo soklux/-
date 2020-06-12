@@ -27,6 +27,7 @@ For our first product I made up the mind to start a *simple online invoicing app
 
 ## Development Driven
 
+* Happiness-driven : send a smile, recognition when doing the right thing - coach, guidance when goes wrong :).
 * Data-driven : use the right data at the right time in the right way - [data privacy duckduckgo's modeling](https://duckduckgo.com/) to make our product smarter & smater align with our vision for people life & work harmony have more time enjoying being human being with their kid & family.
 * Time-driven : can go back to classical, old traditional as memories in a younger happy age or modern time lifestyle to the context
-* Happiness-driven : send a smile, recognition when doing the right thing - coach, guidance when goes wrong :).
+
