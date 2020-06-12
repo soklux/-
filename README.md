@@ -1,12 +1,5 @@
 # Noonightcoder TeamBook 🦉CODER :)
 
-On the morning 14 Aug 2018 9:00 am, we've met again at Koch Pich island to discuss where we wanna go, who we wanna be espeically why we do what we are doing?
-What business we are are really into?
-
-After an hour of dicussion we all agreed to start from ourselve (inside out), this was influence by Rotha's statement.
-បេីសិន ខ្លួនយេីងមិនទាំង Ready ផង how could we help other & let's them believe in use at first sight. រដ្ថាបន្ថែម បេីខ្លួនប្រាណយេីងមិនស្អាត ធំក្លិនស្អុយ តេី និងមាន អ្នកអជីវករ ណា និង ជឿយេីង។
-Another thing we all commit to do for humaind kind & humainity on earth by helping, contribution to whaterver we can all the best form wherever we are.
-
 "Let's just do it" - A practical DREAMER the one who do
 
 If you're reading this just after joinin our tribe the company, it's particualary on you, actually.
